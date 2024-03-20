@@ -13,10 +13,10 @@
 
 - `CodeBlock.css`
 
-![CodeBlock](.\CodeBlock.png)
+![CodeBlock](./CodeBlock.png)
 
 
 
 - `VuepressFix.css`
 
-![base](.\base.png)
+![base](./base.png)
