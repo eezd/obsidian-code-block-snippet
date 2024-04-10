@@ -1,3 +1,7 @@
+* {
+  caret-color: red;
+}
+
 .cm-s-obsidian span.cm-inline-code {
   color: #e96900;
 }
@@ -43,6 +47,7 @@
 .HyperMD-header-4 {
   font-size: 1.2rem;
 }
+
 .HyperMD-header-5 {
   font-size: 1rem;
 }
@@ -87,4 +92,9 @@
   background-color: transparent;
   border: 1px solid black;
   border-radius: 50%;
+}
+
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
